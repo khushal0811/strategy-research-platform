@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: strategy-research-backend
+    runtime: docker
+    dockerfilePath: ./Dockerfile
+    plan: free
+    healthCheckPath: /health
+    envVars:
+      - key: DATA_DIR
+        value: /app/data
+      - key: ENGINE_PATH
+        value: /app/engine
+      - key: PIPELINE_PATH
+        value: /app/pipeline
