@@ -11,7 +11,7 @@
 [![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)](#architecture)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 
-[Live Demo](#deployment) · [Architecture](#architecture) · [Features](#features) · [Getting Started](#getting-started) · [Tech Stack](#tech-stack)
+[**🚀 Live Demo**](https://strategy-research-terminal.vercel.app) · [Architecture](#architecture) · [Features](#features) · [Getting Started](#getting-started) · [Tech Stack](#tech-stack)
 
 <br/>
 
