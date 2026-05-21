@@ -1,0 +1,9 @@
+[submodule "Backtester-Oriented-Market-Data-Pipeline"]
+	path = Backtester-Oriented-Market-Data-Pipeline
+	url = https://github.com/khushal0811/Backtester-Oriented-Market-Data-Pipeline.git
+[submodule "Event-Driven-Backtesting-Engine"]
+	path = Event-Driven-Backtesting-Engine
+	url = https://github.com/khushal0811/Event-Driven-Backtesting-Engine.git
+[submodule "strategy-research-terminal"]
+	path = strategy-research-terminal
+	url = https://github.com/khushal0811/strategy-research-terminal.git

@@ -1,0 +1,58 @@
+# Virtual environments
+**/.venv
+**/venv
+**/env
+
+# Node.js (not needed for backend Docker image)
+**/node_modules
+**/.next
+**/out
+
+# Build artifacts
+**/__pycache__
+**/*.pyc
+**/*.pyo
+**/*.egg-info
+**/dist
+**/build
+**/tsconfig.tsbuildinfo
+
+# IDE
+**/.vscode
+**/.idea
+
+# OS
+**/.DS_Store
+**/Thumbs.db
+
+# Git
+**/.git
+
+# Context/docs (not needed at runtime)
+**/Context
+**/context
+
+# Test files (not needed in production)
+**/tests
+**/.pytest_cache
+**/test_*.py
+**/conftest.py
+
+# Frontend (deployed separately on Vercel)
+strategy-research-terminal/frontend/
+
+# Environment files (secrets — set via platform env vars)
+**/.env
+**/.env.local
+**/.env.production
+
+# Data (mounted as volume, not baked into image)
+**/data/*.parquet
+
+# Other
+codebase_audit_report.md
+README.md
+LICENSE
+**/.gitignore
+**/AGENTS.md
+**/CLAUDE.md

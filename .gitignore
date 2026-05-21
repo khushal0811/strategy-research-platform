@@ -1,0 +1,8 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Audit report (workspace-local)
+codebase_audit_report.md
+
+# Each sub-repo has its own .gitignore — these are parent-level extras
