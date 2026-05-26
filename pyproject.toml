@@ -1,0 +1,11 @@
+[tool.pyrefly]
+# Use the backend's venv so pyrefly can resolve fastapi, sqlalchemy, etc.
+python_interpreter = "strategy-research-terminal/backend/.venv/bin/python3"
+
+# Module search paths — mirrors the sys.path setup in backend/config.py
+search_path = [
+    "strategy-research-terminal/backend",
+    "Event-Driven-Backtesting-Engine",
+    "Backtester-Oriented-Market-Data-Pipeline",
+    "strategy-research-terminal/backend/.venv/lib/python3.14/site-packages",
+]
