@@ -25,7 +25,16 @@ The **Strategy Research Platform** is a quantitative backtesting and simulation 
 2. **[Event-Driven Backtesting Engine](file:///Users/khushalarora/Documents/Career/Trading-System-Workspace/market-data-pipeline/Event-Driven-Backtesting-Engine)**: Runs lookahead-free historical simulations with realistic transaction cost profiles.
 3. **[Strategy Research Terminal](file:///Users/khushalarora/Documents/Career/Trading-System-Workspace/market-data-pipeline/strategy-research-terminal)**: Provides a web interface with real-time WebSocket streaming, PostgreSQL-backed session/run persistence, and LLM-powered strategy coding and reporting.
 
+### Terminal Interface Preview
+
+![Strategy Research Terminal Workspace](assets/Screenshot-1.jpg)
+*Figure 1: High-fidelity quantitative terminal workspace showing real-time backtesting instrumentation, portfolio equity curves, and active transaction fills.*
+
+![Strategy Research Terminal History Database](assets/Screenshot-2.jpg)
+*Figure 2: Run History Database panel providing a macOS Terminal-style modal overlay to review, load, restore, and delete historical backtest simulation metrics.*
+
 ---
+
 
 ## Architecture
 
