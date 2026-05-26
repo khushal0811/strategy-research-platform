@@ -30,10 +30,8 @@ The **Strategy Research Platform** is a quantitative backtesting and simulation 
 ![Strategy Research Terminal Workspace](assets/Screenshot-1.jpg)
 *Figure 1: High-fidelity quantitative terminal workspace showing real-time backtesting instrumentation, portfolio equity curves, and active transaction fills.*
 
-![Strategy Research Terminal History Database](assets/Screenshot-2.jpg)
-*Figure 2: Run History Database panel providing a macOS Terminal-style modal overlay to review, load, restore, and delete historical backtest simulation metrics.*
-
 ---
+
 
 
 ## Architecture
